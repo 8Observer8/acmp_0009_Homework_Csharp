@@ -1,0 +1,7 @@
+D:\Documents\C#\Problems\Acmp\acmp_0009_Homework_Csharp_Solution\UnitTestHomework\obj\Debug\UnitTestHomework.csprojResolveAssemblyReference.cache
+D:\Documents\C#\Problems\Acmp\acmp_0009_Homework_Csharp_Solution\UnitTestHomework\bin\Debug\UnitTestHomework.dll
+D:\Documents\C#\Problems\Acmp\acmp_0009_Homework_Csharp_Solution\UnitTestHomework\bin\Debug\UnitTestHomework.pdb
+D:\Documents\C#\Problems\Acmp\acmp_0009_Homework_Csharp_Solution\UnitTestHomework\bin\Debug\acmp_0009_Homework_Csharp.dll
+D:\Documents\C#\Problems\Acmp\acmp_0009_Homework_Csharp_Solution\UnitTestHomework\bin\Debug\acmp_0009_Homework_Csharp.pdb
+D:\Documents\C#\Problems\Acmp\acmp_0009_Homework_Csharp_Solution\UnitTestHomework\obj\Debug\UnitTestHomework.dll
+D:\Documents\C#\Problems\Acmp\acmp_0009_Homework_Csharp_Solution\UnitTestHomework\obj\Debug\UnitTestHomework.pdb

@@ -1,0 +1,5 @@
+D:\Documents\C#\Problems\Acmp\acmp_0009_Homework_Csharp_Solution\acmp_0009_Homework_Csharp\bin\Debug\acmp_0009_Homework_Csharp.dll
+D:\Documents\C#\Problems\Acmp\acmp_0009_Homework_Csharp_Solution\acmp_0009_Homework_Csharp\bin\Debug\acmp_0009_Homework_Csharp.pdb
+D:\Documents\C#\Problems\Acmp\acmp_0009_Homework_Csharp_Solution\acmp_0009_Homework_Csharp\obj\Debug\acmp_0009_Homework_Csharp.csprojResolveAssemblyReference.cache
+D:\Documents\C#\Problems\Acmp\acmp_0009_Homework_Csharp_Solution\acmp_0009_Homework_Csharp\obj\Debug\acmp_0009_Homework_Csharp.dll
+D:\Documents\C#\Problems\Acmp\acmp_0009_Homework_Csharp_Solution\acmp_0009_Homework_Csharp\obj\Debug\acmp_0009_Homework_Csharp.pdb
